@@ -1,0 +1,6 @@
+1. check set // something pass, still need to change the outlook.
+2. check ls   //ok
+3.check read // ok 
+4. check cp//ok
+5. rm //pass
+
